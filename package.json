@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cheerio": "*",
+    "got-scraping": "^4.0.4"
+  }
+}
