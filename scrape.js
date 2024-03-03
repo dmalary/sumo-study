@@ -25,9 +25,16 @@ const scrape = (url, name) => {
   })();
 }
 // scrape test
-scrape('https://sumodb.sumogames.de/Banzuke.aspx?b=200711#M', 'test')
+// scrape('https://sumodb.sumogames.de/Banzuke.aspx?b=200711#M', 'test')
 
-// const run = () => {
+const run = () => {
+  years.map(year => 
+    // console.log(`year`, year)
+    bashoNum.map(basho => 
+      // console.log(`basho`, basho)
 
-// }
-// run()
+      scrape(url(year, basho), `${year}-basho_${basho}`)
+    )
+  )
+}
+run()
