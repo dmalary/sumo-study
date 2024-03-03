@@ -11,3 +11,6 @@ node v: node 16
 scrape: node scrape.js
 
 clean data: node clean.js
+
+### NEXT
+clean data into digestible JSON
