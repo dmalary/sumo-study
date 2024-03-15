@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "cheerio": "*",
+    "crawlee": "^3.8.1",
     "got-scraping": "^4.0.4"
   },
   "type": "module"
