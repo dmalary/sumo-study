@@ -1,0 +1,523 @@
+{
+	"url": "https://en.wikipedia.org/wiki/List_of_yokozuna",
+	"data": [
+		{
+			"name": "",
+			"championshipsWon": "",
+			"stable": "",
+			"promoted": "",
+			"retired": ""
+		},
+		{
+			"name": "Akashi Shiganosuke",
+			"championshipsWon": "NA",
+			"stable": "",
+			"promoted": "?",
+			"retired": "c. 1649? (died)"
+		},
+		{
+			"name": "Ayagawa Gorōji",
+			"championshipsWon": "NA",
+			"stable": "",
+			"promoted": "?",
+			"retired": "c. 1765? (died)"
+		},
+		{
+			"name": "Maruyama Gondazaemon",
+			"championshipsWon": "NA",
+			"stable": "Nanatsumori",
+			"promoted": "1749",
+			"retired": "1749 (died)"
+		},
+		{
+			"name": "Tanikaze Kajinosuke",
+			"championshipsWon": "21",
+			"stable": "Isenoumi",
+			"promoted": "1789",
+			"retired": "1795 (died)"
+		},
+		{
+			"name": "Onogawa Kisaburō",
+			"championshipsWon": "7",
+			"stable": "Onogawa",
+			"promoted": "1789",
+			"retired": "1797"
+		},
+		{
+			"name": "Ōnomatsu Midorinosuke",
+			"championshipsWon": "5",
+			"stable": "Shikoroyama",
+			"promoted": "1828",
+			"retired": "1835"
+		},
+		{
+			"name": "Inazuma Raigorō",
+			"championshipsWon": "10",
+			"stable": "Sadogatake",
+			"promoted": "1830",
+			"retired": "1839"
+		},
+		{
+			"name": "Shiranui Dakuemon",
+			"championshipsWon": "1",
+			"stable": "Urakaze",
+			"promoted": "1840",
+			"retired": "1844"
+		},
+		{
+			"name": "Hidenoyama Raigorō",
+			"championshipsWon": "6",
+			"stable": "Hidenoyama",
+			"promoted": "1847",
+			"retired": "1850"
+		},
+		{
+			"name": "Unryū Kyūkichi",
+			"championshipsWon": "7",
+			"stable": "Jinmaku",
+			"promoted": "1861",
+			"retired": "1865"
+		},
+		{
+			"name": "Shiranui Kōemon",
+			"championshipsWon": "3",
+			"stable": "Sakaigawa",
+			"promoted": "1863",
+			"retired": "1869"
+		},
+		{
+			"name": "Jinmaku Kyūgorō",
+			"championshipsWon": "5",
+			"stable": "Hidenoyama",
+			"promoted": "1867",
+			"retired": "1867"
+		},
+		{
+			"name": "Kimenzan Tanigorō",
+			"championshipsWon": "7",
+			"stable": "Takekuma",
+			"promoted": "1869",
+			"retired": "1870"
+		},
+		{
+			"name": "Sakaigawa Namiemon",
+			"championshipsWon": "5",
+			"stable": "Sakaigawa",
+			"promoted": "1877",
+			"retired": "1881"
+		},
+		{
+			"name": "Umegatani Tōtarō I",
+			"championshipsWon": "9",
+			"stable": "Tamagaki",
+			"promoted": "1884",
+			"retired": "1885"
+		},
+		{
+			"name": "Nishinoumi Kajirō I",
+			"championshipsWon": "2",
+			"stable": "Takasago",
+			"promoted": "1890",
+			"retired": "1896"
+		},
+		{
+			"name": "Konishiki Yasokichi I",
+			"championshipsWon": "7",
+			"stable": "Takasago",
+			"promoted": "1896",
+			"retired": "1901"
+		},
+		{
+			"name": "Ōzutsu Man'emon",
+			"championshipsWon": "2",
+			"stable": "Oguruma",
+			"promoted": "1901",
+			"retired": "1908"
+		},
+		{
+			"name": "Hitachiyama Taniemon",
+			"championshipsWon": "8",
+			"stable": "Dewanoumi",
+			"promoted": "1903",
+			"retired": "1914"
+		},
+		{
+			"name": "Umegatani Tōtarō II",
+			"championshipsWon": "3",
+			"stable": "Ikazuchi",
+			"promoted": "1903",
+			"retired": "1915"
+		},
+		{
+			"name": "Wakashima Gonshirō",
+			"championshipsWon": "4",
+			"stable": "Nakamura",
+			"promoted": "1905",
+			"retired": "1907"
+		},
+		{
+			"name": "Tachiyama Mineemon",
+			"championshipsWon": "11",
+			"stable": "Tomozuna",
+			"promoted": "1911",
+			"retired": "1918"
+		},
+		{
+			"name": "Ōkido Moriemon",
+			"championshipsWon": "10",
+			"stable": "Minato",
+			"promoted": "1912",
+			"retired": "1914"
+		},
+		{
+			"name": "Ōtori Tanigorō",
+			"championshipsWon": "2",
+			"stable": "Miyagino",
+			"promoted": "1915",
+			"retired": "1920"
+		},
+		{
+			"name": "Nishinoumi Kajirō II",
+			"championshipsWon": "1",
+			"stable": "Izutsu",
+			"promoted": "1916",
+			"retired": "1918"
+		},
+		{
+			"name": "Ōnishiki Uichirō",
+			"championshipsWon": "5",
+			"stable": "Dewanoumi",
+			"promoted": "1917",
+			"retired": "1923"
+		},
+		{
+			"name": "Tochigiyama Moriya",
+			"championshipsWon": "9",
+			"stable": "Dewanoumi",
+			"promoted": "1918",
+			"retired": "1925"
+		},
+		{
+			"name": "Ōnishiki Daigorō",
+			"championshipsWon": "6",
+			"stable": "Asahiyama",
+			"promoted": "1918",
+			"retired": "1922"
+		},
+		{
+			"name": "Miyagiyama Fukumatsu",
+			"championshipsWon": "6",
+			"stable": "Takadagawa",
+			"promoted": "1922",
+			"retired": "1931"
+		},
+		{
+			"name": "Nishinoumi Kajirō III",
+			"championshipsWon": "1",
+			"stable": "Izutsu",
+			"promoted": "1923",
+			"retired": "1928"
+		},
+		{
+			"name": "Tsunenohana Kan'ichi",
+			"championshipsWon": "10",
+			"stable": "Dewanoumi",
+			"promoted": "1924",
+			"retired": "1930"
+		},
+		{
+			"name": "Tamanishiki San'emon",
+			"championshipsWon": "9",
+			"stable": "Nishonoseki",
+			"promoted": "1932",
+			"retired": "1938 (died)"
+		},
+		{
+			"name": "Musashiyama Takeshi",
+			"championshipsWon": "1",
+			"stable": "Dewanoumi",
+			"promoted": "1935",
+			"retired": "1939"
+		},
+		{
+			"name": "Minanogawa Tōzō",
+			"championshipsWon": "2",
+			"stable": "Sadogatake",
+			"promoted": "1936",
+			"retired": "1942"
+		},
+		{
+			"name": "Futabayama Sadaji",
+			"championshipsWon": "12",
+			"stable": "Tatsunami",
+			"promoted": "1937",
+			"retired": "1945"
+		},
+		{
+			"name": "Haguroyama Masaji",
+			"championshipsWon": "7",
+			"stable": "Tatsunami",
+			"promoted": "1941",
+			"retired": "1953"
+		},
+		{
+			"name": "Akinoumi Setsuo",
+			"championshipsWon": "1",
+			"stable": "Dewanoumi",
+			"promoted": "1942",
+			"retired": "1946"
+		},
+		{
+			"name": "Terukuni Manzō",
+			"championshipsWon": "2",
+			"stable": "Isegahama (1)",
+			"promoted": "1942",
+			"retired": "1953"
+		},
+		{
+			"name": "Maedayama Eigorō",
+			"championshipsWon": "1",
+			"stable": "Takasago",
+			"promoted": "1947",
+			"retired": "1949"
+		},
+		{
+			"name": "Azumafuji Kin'ichi",
+			"championshipsWon": "6",
+			"stable": "Takasago",
+			"promoted": "1948",
+			"retired": "1954"
+		},
+		{
+			"name": "Chiyonoyama Masanobu",
+			"championshipsWon": "6",
+			"stable": "Dewanoumi",
+			"promoted": "1951",
+			"retired": "1959"
+		},
+		{
+			"name": "Kagamisato Kiyoji",
+			"championshipsWon": "4",
+			"stable": "Tokitsukaze",
+			"promoted": "1953",
+			"retired": "1958"
+		},
+		{
+			"name": "Yoshibayama Junnosuke",
+			"championshipsWon": "1",
+			"stable": "Takashima",
+			"promoted": "1954",
+			"retired": "1958"
+		},
+		{
+			"name": "Tochinishiki Kiyotaka",
+			"championshipsWon": "10",
+			"stable": "Kasugano",
+			"promoted": "1954",
+			"retired": "1960"
+		},
+		{
+			"name": "Wakanohana Kanji I",
+			"championshipsWon": "10",
+			"stable": "Hanakago",
+			"promoted": "1958",
+			"retired": "1962"
+		},
+		{
+			"name": "Asashio Tarō III",
+			"championshipsWon": "5",
+			"stable": "Takasago",
+			"promoted": "1959",
+			"retired": "1962"
+		},
+		{
+			"name": "Kashiwado Tsuyoshi",
+			"championshipsWon": "5",
+			"stable": "Isenoumi",
+			"promoted": "1961",
+			"retired": "1969"
+		},
+		{
+			"name": "Taihō Kōki",
+			"championshipsWon": "32",
+			"stable": "Nishonoseki",
+			"promoted": "1961",
+			"retired": "1971"
+		},
+		{
+			"name": "Tochinoumi Teruyoshi",
+			"championshipsWon": "3",
+			"stable": "Kasugano",
+			"promoted": "1964",
+			"retired": "1966"
+		},
+		{
+			"name": "Sadanoyama Shinmatsu",
+			"championshipsWon": "6",
+			"stable": "Dewanoumi",
+			"promoted": "1965",
+			"retired": "1968"
+		},
+		{
+			"name": "Tamanoumi Masahiro",
+			"championshipsWon": "6",
+			"stable": "Kataonami",
+			"promoted": "1970",
+			"retired": "1971 (died)"
+		},
+		{
+			"name": "Kitanofuji Katsuaki",
+			"championshipsWon": "10",
+			"stable": "Kokonoe",
+			"promoted": "1970",
+			"retired": "1974"
+		},
+		{
+			"name": "Kotozakura Masakatsu",
+			"championshipsWon": "5",
+			"stable": "Sadogatake",
+			"promoted": "1973",
+			"retired": "1974"
+		},
+		{
+			"name": "Wajima Hiroshi",
+			"championshipsWon": "14",
+			"stable": "Hanakago",
+			"promoted": "1973",
+			"retired": "1981"
+		},
+		{
+			"name": "Kitanoumi Toshimitsu",
+			"championshipsWon": "24",
+			"stable": "Mihogaseki",
+			"promoted": "1974",
+			"retired": "1985"
+		},
+		{
+			"name": "Wakanohana Kanji II",
+			"championshipsWon": "4",
+			"stable": "Futagoyama",
+			"promoted": "1978",
+			"retired": "1983"
+		},
+		{
+			"name": "Mienoumi Tsuyoshi",
+			"championshipsWon": "3",
+			"stable": "Dewanoumi",
+			"promoted": "1979",
+			"retired": "1980"
+		},
+		{
+			"name": "Chiyonofuji Mitsugu",
+			"championshipsWon": "31",
+			"stable": "Kokonoe",
+			"promoted": "1981",
+			"retired": "1991"
+		},
+		{
+			"name": "Takanosato Toshihide",
+			"championshipsWon": "4",
+			"stable": "Futagoyama",
+			"promoted": "1983",
+			"retired": "1986"
+		},
+		{
+			"name": "Futahaguro Kōji",
+			"championshipsWon": "0",
+			"stable": "Tatsunami",
+			"promoted": "1986",
+			"retired": "1988"
+		},
+		{
+			"name": "Hokutoumi Nobuyoshi",
+			"championshipsWon": "8",
+			"stable": "Kokonoe",
+			"promoted": "1987",
+			"retired": "1992"
+		},
+		{
+			"name": "Ōnokuni Yasushi",
+			"championshipsWon": "2",
+			"stable": "Hanaregoma",
+			"promoted": "1987",
+			"retired": "1991"
+		},
+		{
+			"name": "Asahifuji Seiya",
+			"championshipsWon": "4",
+			"stable": "Ōshima",
+			"promoted": "1990",
+			"retired": "1992"
+		},
+		{
+			"name": "Akebono Tarō",
+			"championshipsWon": "11",
+			"stable": "Azumazeki",
+			"promoted": "1993",
+			"retired": "2001"
+		},
+		{
+			"name": "Takanohana Kōji",
+			"championshipsWon": "22",
+			"stable": "Futagoyama",
+			"promoted": "1994",
+			"retired": "2003"
+		},
+		{
+			"name": "Wakanohana Masaru",
+			"championshipsWon": "5",
+			"stable": "Futagoyama",
+			"promoted": "1998",
+			"retired": "2000"
+		},
+		{
+			"name": "Musashimaru Kōyō",
+			"championshipsWon": "12",
+			"stable": "Musashigawa",
+			"promoted": "1999",
+			"retired": "2003"
+		},
+		{
+			"name": "Asashōryū Akinori",
+			"championshipsWon": "25",
+			"stable": "Takasago",
+			"promoted": "2003",
+			"retired": "2010"
+		},
+		{
+			"name": "Hakuhō Shō",
+			"championshipsWon": "45",
+			"stable": "Miyagino",
+			"promoted": "2007",
+			"retired": "2021"
+		},
+		{
+			"name": "Harumafuji Kōhei",
+			"championshipsWon": "9",
+			"stable": "Isegahama (2)",
+			"promoted": "2012",
+			"retired": "2017"
+		},
+		{
+			"name": "Kakuryū Rikisaburō",
+			"championshipsWon": "6",
+			"stable": "Izutsu",
+			"promoted": "2014",
+			"retired": "2021"
+		},
+		{
+			"name": "Kisenosato Yutaka",
+			"championshipsWon": "2",
+			"stable": "Tagonoura",
+			"promoted": "2017",
+			"retired": "2019"
+		},
+		{
+			"name": "Terunofuji Haruo",
+			"championshipsWon": "9",
+			"stable": "Isegahama (2)",
+			"promoted": "2021",
+			"retired": "active"
+		}
+	]
+}
