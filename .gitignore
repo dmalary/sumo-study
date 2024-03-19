@@ -5,3 +5,6 @@
 data_template.json
 
 /data/pages
+
+/storage/key_value_stores
+/storage/request_queues/*
