@@ -12,6 +12,7 @@ const crawler = new CheerioCrawler({
             stable: $(el).find('td:nth-child(5)').text().trim(),
             promoted: $(el).find('td:nth-child(7)').text().trim(),
             retired: $(el).find('td:nth-child(8)').text().trim(),
+            url: $(el).find('td:nth-child(2) a').attr('href'),
           });
       });
 
